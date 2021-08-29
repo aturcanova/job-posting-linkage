@@ -1,0 +1,25 @@
+{
+  " IST ": " ",
+  " EXPERTS ": " ",
+  " SIEHE ": " ",
+  " RECRUITING ": " ",
+  " GEMEINNUETZIGE ": " ",
+  " WEITERE ": " ",
+  " PERSONNEL ": " ",
+  " PROFESSIONALS? ": " ",
+  " PERSONAL[\\w]* ": " ",
+  " [\\w]*FIRM[\\w]* ": " ",
+  " [\\w]*STELLE[\\w]* ": " ",
+  " [\\w]*ANGEBOT[\\w]* ": " ",
+  " [\\w]*VERTRIEB[\\w]* ": " ",
+  " [\\w]*BETEILIGUNG[\\w]* ": " ",
+  " [\\w]*LEISTUNG[\\w]* ": " ",
+  " [\\w]*INFORMATION[\\w]* ": " ",
+  " [\\w]*MANAGEMENT[\\w]* ": " ",
+  " [\\w]*GESELLSCHAFT[\\w]* ": " ",
+  " [\\w]*VERMITTL[\\w]* ": " ",
+  " [\\w]*GRUPPE[\\w]* ": " ",
+
+  "  ": " "
+
+}

@@ -1,0 +1,23 @@
+# Datasets and logs #
+#####################
+*.txt
+*.csv
+*.npy
+*.npz
+*.log
+*.xml
+data
+
+# Images and activations #
+##########################
+*.png
+*.jpeg
+
+# Models #
+##########
+*.h5
+*.json
+
+# Idea IDE #
+############
+.idea
